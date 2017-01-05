@@ -1,0 +1,1 @@
+# For saving the photos used in README.md
